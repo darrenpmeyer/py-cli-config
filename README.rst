@@ -5,6 +5,8 @@ An opinionated configuration system and argument parser for Python 3 CLI applica
 
 See `cli_config`_ module folder for installation and other details.
 
+.. _cli_config: cli_config/
+
 Philosophy -- why another one of these?
 ---------------------------------------
 
