@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "cli-config"
+version = "0.1.0"
+description = "An opinionated configuration system and argument parser for Python 3 CLIs"
+authors = ["Darren P Meyer <darrenpmeyer@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
